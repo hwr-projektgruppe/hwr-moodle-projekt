@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <cronjob>1</cronjob>
+    <login>1</login>
+    <text1_pt1><![CDATA[Hallo,<br /><br />du warst schon seit ]]></text1_pt1>
+    <text1_pt2><![CDATA[nicht mehr bei Moodle.<br />Ich würde mich freuen, auch dich mal wieder da zu sehen. Bestimmt findest du auch viele neue Dokumente.<br /><br />Liebe Grüße<br /><br />Dein Moodle]]></text1_pt2>
+    <text2_pt1><![CDATA[Lieber Studierender,<br />Sie waren schon ]]></text2_pt1>
+    <text2_pt2><![CDATA[nicht mehr bei Moodle online. Bitte loggen Sie sich doch mal wieder ein und schauen Sie was es für Neuigkeiten gibt.<br /><br />Ihr Moodle]]></text2_pt2>
+    <version>2015061721</version>
+</config>
